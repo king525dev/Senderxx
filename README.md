@@ -53,5 +53,7 @@ PHP  download link-> [https://www.php.net/downloads.php]
 	-CodemyUI.com [https://codemyui.com/]
 	-W3schools [https://www.w3schools.com/]
   -Canva (For the logo)
+  
+  [ Special thanks to Coding Nepal, Check out his video ->(https://www.youtube.com/watch?v=VnvzxGWiK54)] 
 
 THANK YOU
